@@ -4,7 +4,6 @@ A simple prefab to allow users to move fast like Sonic or go super slow like Neo
 
 # Credits
 Prefab Maker: 			Splinks
-
 Script Discoverer:		Gurathnaka
 
 
