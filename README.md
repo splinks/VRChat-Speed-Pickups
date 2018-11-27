@@ -2,6 +2,9 @@
 A simple prefab to allow users to move fast like Sonic or go super slow like Neo
 
 
+# Plugins needed
+Final IK
+
 # Credits
 Prefab Maker: 			Splinks
 
